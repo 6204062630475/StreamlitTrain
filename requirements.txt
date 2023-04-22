@@ -10,4 +10,5 @@ requests
 scipy
 tqdm
 seaborn
+psutil
 
