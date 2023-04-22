@@ -11,4 +11,5 @@ scipy
 tqdm
 seaborn
 psutil
-
+pandas
+pymongo
