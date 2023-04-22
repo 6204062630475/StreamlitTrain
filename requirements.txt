@@ -10,6 +10,5 @@ requests
 scipy
 tqdm
 seaborn
-pip --upgrade
 psutil
 
