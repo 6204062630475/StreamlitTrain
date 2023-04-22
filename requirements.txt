@@ -10,3 +10,4 @@ requests
 scipy
 tqdm
 seaborn
+libgl1-mesa-glx
