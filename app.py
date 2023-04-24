@@ -9,7 +9,7 @@ import av
 
 device = 'cpu'
 if not hasattr(st, 'classifier'):
-    st.model = torch.hub.load('ultralytics/yolov5', 'custom',path='fishtrainIV0.89.pt', _verbose=False)
+    st.model = torch.hub.load('ultralytics/yolov5', 'custom', path='fishtrainIV0.89.pt', _verbose=False)
     # st.model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5s.pt', _verbose=False)
     
 
